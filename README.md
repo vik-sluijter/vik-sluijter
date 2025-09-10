@@ -6,7 +6,7 @@ Hi, I’m Vik, a student of Interactive Media Development at Artevelde Universit
 
 ### 🧰 Skills
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
