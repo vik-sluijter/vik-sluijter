@@ -6,6 +6,6 @@ Hi, I’m Vik, a student of Interactive Media Development at Artevelde Universit
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html, css, javascript, react" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
   </a>
 </p>
